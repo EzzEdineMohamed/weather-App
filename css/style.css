@@ -1,0 +1,18 @@
+body {
+  background: linear-gradient(180deg, #60a5fa, #3b82f6);
+  color: #fff;
+  min-height: 100vh;
+}
+.inner {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 15px;
+  padding: 20px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+.temp {
+  font-size: 64px;
+  font-weight: bold;
+}
+.day-icon {
+  font-size: 35.2px;
+}
