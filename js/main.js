@@ -2,7 +2,7 @@
 var forecast;
 
 var row = document.querySelector(".row");
-var searchInput = document.querySelector(".form-control"); // النقطة اتضافت
+var searchInput = document.querySelector(".form-control"); 
 var btn = document.querySelector(".btn");
 
 //calling Api to get data from it
